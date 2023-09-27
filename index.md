@@ -3,22 +3,22 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="assets/gasworks.jpg">
+<img class="profile-picture" src="assets/jinjilake.jpg">
 
-I'm a PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/) where I am lucky to be advised by [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/).
+Hi there! Welcome to my home page under construction! I'm a fourth-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am so fortunate to be advised by Prof. [Edward H. Kennedy](https://www.ehkennedy.com/).
 
-Before coming to CMU, I studied math and statistics at the University of Waterloo in Canada.
+Before coming to CMU, I studied math and statistics at University of Science and Technology of China(USTC).
 
-I am broadly interested in statistical theory and methodology under weak assumptions, often in adaptive and sequential settings. For example, I focus on
-* anytime-valid sequential inference,
-* nonparametric methods,
-* causal inference,
-* reinforcement learning, and
-* differential privacy.
+I am broadly interested in statistical theory and methodology for causal inference, often based on semiparametric efficiency theory. Topics includes:
+* Generalizability and transportability,
+* Instrumental variable methods,
+* Hetergeneous effects estimation,
+* Continuous treatment effect (dose response) estimation,
+* Causal inference in high-dimensional problems.
 
 ---
 
-* [ianws@cmu.edu](mailto:ianws@cmu.edu)
-* [github.com/wannabesmith](https://github.com/wannabesmith)
-* [twitter.com/ianws0](https://twitter.com/ianws0)
+* [zhenghaz@andrew.cmu.edu](mailto:zhenghaz@andrew.cmu.edu)
+* [github.com/ZhZengTiger](https://github.com/ZhZengTiger)
+
 
