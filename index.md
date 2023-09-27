@@ -19,6 +19,6 @@ I am broadly interested in statistical theory and methodology for causal inferen
 ---
 
 * [zhenghaz@andrew.cmu.edu](mailto:zhenghaz@andrew.cmu.edu)
-* [github.com/zhzengtiger](https://github.com/zhzengtiger)
+* [github.com/Tiger-ZhenghaoZeng](https://github.com/Tiger-ZhenghaoZeng)
 
 
