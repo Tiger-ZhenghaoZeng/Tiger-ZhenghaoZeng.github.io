@@ -1,5 +1,5 @@
-title: Ian Waudby-Smith 
-url: "https://ianws.com"
+title: Zhenghao(Tiger) Zeng
+url: "https://ZhZengTiger.com"
 baseurl: ""
 
 markdown: kramdown
@@ -19,7 +19,5 @@ sass:
 nav:
  - name: "Papers"
    link: "papers"
- - name: "Software"
-   link: "software"
  - name: "CV"
-   link: "ianws_cv.pdf"
+   link: "Resume_Zhenghao.pdf"
