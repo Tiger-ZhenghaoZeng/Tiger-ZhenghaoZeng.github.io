@@ -8,7 +8,7 @@ layout: default
 
 - **Efficient generalization and transportation** \\
     Zeng, Z., Kennedy, E.H., Bodnar, L.M. and Naimi, A.I., 2023 \\
-    [arxiv](https://arxiv.org/abs/2302.00092) 
+    ENAR 2023 Distinguished Student Paper Award ·[arxiv](https://arxiv.org/abs/2302.00092) 
 
 - **Covariate-assisted bounds on causal effects with instrumental variables** \\
     Levis, A.W., Bonvini, M., Zeng, Z., Keele, L. and Kennedy, E.H., 2023. \\
@@ -34,5 +34,4 @@ layout: default
     [arxiv](https://arxiv.org/abs/2006.04347) · [pdf](https://arxiv.org/pdf/2006.04347.pdf) ·
     [proceedings](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html) 
 
-(A full list can be found on [google scholar](https://scholar.google.com/citations?user=FnyNlFAAAAAJ&oi=ao).)
 
