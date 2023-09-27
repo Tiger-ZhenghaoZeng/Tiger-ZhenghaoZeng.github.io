@@ -8,30 +8,20 @@ layout: default
 
 - **Efficient generalization and transportation** \\
     Zeng, Z., Kennedy, E.H., Bodnar, L.M. and Naimi, A.I., 2023 \\
-    ENAR 2023 Distinguished Student Paper Award ·[arxiv](https://arxiv.org/abs/2302.00092) 
+    ENAR 2023 Distinguished Student Paper Award · [arxiv](https://arxiv.org/abs/2302.00092) 
 
 - **Covariate-assisted bounds on causal effects with instrumental variables** \\
     Levis, A.W., Bonvini, M., Zeng, Z., Keele, L. and Kennedy, E.H., 2023. \\
     [arxiv](https://arxiv.org/abs/2301.12106) 
 
-- **Nonparametric extensions of randomized response for private confidence sets** \\
-    I. Waudby-Smith, Z.S. Wu, and A. Ramdas \\
-    ICML, 2023 _(oral)_ · [arxiv](https://arxiv.org/abs/2202.08728) · [pdf](https://arxiv.org/pdf/2202.08728.pdf)
+- **A Tensor-EM Method for Large-Scale Latent Class Analysis with Binary Responses** \\
+    Zeng, Z., Gu, Y. and Xu, G., 2023. \\
+    Psychometrika, 88(2), pp.580-612. · [arxiv](https://arxiv.org/abs/2103.16036) · [journal](https://link.springer.com/article/10.1007/s11336-022-09887-1)
 
-- **Estimating means of bounded random variables by betting** \\
-	I. Waudby-Smith and A. Ramdas \\
-    JRSSB, 2023 _(discussion paper)_ · [arxiv](https://arxiv.org/abs/2010.09686) · [pdf](https://arxiv.org/pdf/2010.09686.pdf)
+- **On the phase transition of Wilks’ phenomenon** \\
+    He, Y., Meng, B., Zeng, Z. and Xu, G., 2021. \\
+    Biometrika, 108(3), pp.741-748. · [arxiv](https://arxiv.org/abs/2008.05974) · [journal](https://academic.oup.com/biomet/article-abstract/108/3/741/5911091)
 
-- **RiLACS: Risk-limiting audits via confidence sequences**\\
-	I. Waudby-Smith, P.B. Stark, and A. Ramdas \\
-    E-Vote-ID, 2021 _(Best paper award)_ ·
-    [arxiv](https://arxiv.org/abs/2107.11323) · [pdf](https://arxiv.org/pdf/2107.11323.pdf) · 
-    [proceedings](https://link.springer.com/chapter/10.1007/978-3-030-86942-7_9)
 
-- **Confidence sequences for sampling without replacement**\\
-	I. Waudby-Smith and A. Ramdas \\
-    NeurIPS, 2020 _(spotlight)_ ·
-    [arxiv](https://arxiv.org/abs/2006.04347) · [pdf](https://arxiv.org/pdf/2006.04347.pdf) ·
-    [proceedings](https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html) 
 
 
