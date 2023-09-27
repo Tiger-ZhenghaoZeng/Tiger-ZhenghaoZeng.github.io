@@ -7,7 +7,7 @@ layout: default
 
 Hi there! Welcome to my home page under construction! I'm a fourth-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am so fortunate to be advised by Prof. [Edward H. Kennedy](https://www.ehkennedy.com/).
 
-Before coming to CMU, I studied math and statistics at University of Science and Technology of China(USTC).
+Before coming to CMU, I studied math and statistics at [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/).
 
 I am broadly interested in statistical theory and methodology for causal inference, often based on semiparametric efficiency theory. Topics includes:
 * Generalizability and transportability,
