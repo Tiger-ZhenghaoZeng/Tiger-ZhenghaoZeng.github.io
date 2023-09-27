@@ -6,13 +6,13 @@ layout: default
 ### Selected papers
 
 
-- **Anytime-valid off-policy inference for contextual bandits** \\
-    I. Waudby-Smith, L. Wu, A. Ramdas, N. Karampatziakis, and P. Mineiro \\
-    [arxiv](https://arxiv.org/abs/2210.10768) · [pdf](https://arxiv.org/pdf/2210.10768.pdf)
+- **Efficient generalization and transportation** \\
+    Zeng, Z., Kennedy, E.H., Bodnar, L.M. and Naimi, A.I., 2023 \\
+    [arxiv](https://arxiv.org/abs/2302.00092) 
 
-- **Time-uniform central limit theory and asymptotic confidence sequences** \\
-    I. Waudby-Smith, D. Arbour, R. Sinha, E.H. Kennedy, and A. Ramdas \\
-    [arxiv](https://arxiv.org/abs/2103.06476) · [pdf](https://arxiv.org/pdf/2103.06476.pdf)
+- **Covariate-assisted bounds on causal effects with instrumental variables** \\
+    Levis, A.W., Bonvini, M., Zeng, Z., Keele, L. and Kennedy, E.H., 2023. \\
+    [arxiv](https://arxiv.org/abs/2301.12106) 
 
 - **Nonparametric extensions of randomized response for private confidence sets** \\
     I. Waudby-Smith, Z.S. Wu, and A. Ramdas \\
