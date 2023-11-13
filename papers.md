@@ -5,6 +5,9 @@ layout: default
 
 ### Selected papers
 
+- **Flexibly Estimating and Interpreting Heterogeneous Treatment Effects of Laparoscopic Surgery for Cholecystitis Patients** \\
+    Bonvini, M., Zeng, Z., Yu, M., Kennedy, E.H., and Keele, L., 2023 \\
+    [arxiv](https://arxiv.org/abs/2311.04359) 
 
 - **Efficient generalization and transportation** \\
     Zeng, Z., Kennedy, E.H., Bodnar, L.M. and Naimi, A.I., 2023 \\
