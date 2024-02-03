@@ -5,6 +5,10 @@ layout: default
 
 ### Selected papers
 
+- **Continuous Treatment Effects with Surrogate Outcomes** \\
+    **Zeng, Z.**, Arbour, D., Feller, A., Addanki, R., Rossi, R., Sinha, R., and Kennedy, E.H. (2024).
+    [arxiv](https://arxiv.org/abs/2402.00168) 
+
 - **Flexibly Estimating and Interpreting Heterogeneous Treatment Effects of Laparoscopic Surgery for Cholecystitis Patients** \\
     Bonvini, M., **Zeng, Z.**, Yu, M., Kennedy, E.H., and Keele, L., 2023 \\
     [arxiv](https://arxiv.org/abs/2311.04359) 
