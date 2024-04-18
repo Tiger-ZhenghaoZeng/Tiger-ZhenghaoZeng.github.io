@@ -5,8 +5,12 @@ layout: default
 
 ### Selected papers
 
+- **Causal Inference for Genomic Data with Multiple Heterogeneous Outcomes** \\
+    Du, J. H., **Zeng, Z.**, Kennedy, E. H., Wasserman, L., and Roeder, K. \\
+    [arxiv](https://arxiv.org/abs/2404.09119) 
+
 - **Continuous Treatment Effects with Surrogate Outcomes** \\
-    **Zeng, Z.**, Arbour, D., Feller, A., Addanki, R., Rossi, R., Sinha, R., and Kennedy, E.H. 
+    **Zeng, Z.**, Arbour, D., Feller, A., Addanki, R., Rossi, R., Sinha, R., and Kennedy, E.H. \\
     [arxiv](https://arxiv.org/abs/2402.00168) 
 
 - **Flexibly Estimating and Interpreting Heterogeneous Treatment Effects of Laparoscopic Surgery for Cholecystitis Patients** \\
