@@ -5,6 +5,10 @@ layout: default
 
 ### Selected papers
 
+- **Causal Inference with High-dimensional Discrete Covariates** \\
+     **Zeng, Z.**, Balakrishnan, S., Han, Y. and Kennedy, E. H. \\
+    [arxiv](https://arxiv.org/abs/2405.00118) (**ASA Student Paper Award, Statistical Learning and Data Science (SLDS) Section, 2024**)
+
 - **Causal Inference for Genomic Data with Multiple Heterogeneous Outcomes** \\
     Du, J. H., **Zeng, Z.**, Kennedy, E. H., Wasserman, L., and Roeder, K. \\
     [arxiv](https://arxiv.org/abs/2404.09119) 
@@ -19,7 +23,7 @@ layout: default
 
 - **Efficient generalization and transportation** \\
     **Zeng, Z.**, Kennedy, E.H., Bodnar, L.M. and Naimi, A.I. \\
-    [arxiv](https://arxiv.org/abs/2302.00092) (**ENAR 2023 Distinguished Student Paper Award**)
+    [arxiv](https://arxiv.org/abs/2302.00092) (**ENAR Distinguished Student Paper Award, 2023**)
 
 - **Covariate-assisted bounds on causal effects with instrumental variables** \\
     Levis, A.W., Bonvini, M., **Zeng, Z.**, Keele, L. and Kennedy, E.H. \\
