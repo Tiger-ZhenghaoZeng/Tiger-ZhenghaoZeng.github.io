@@ -7,7 +7,7 @@ layout: default
 
 - **Causal Inference with High-dimensional Discrete Covariates** \\
      **Zeng, Z.**, Balakrishnan, S., Han, Y. and Kennedy, E. H. \\
-     <span style="color: darkblue;">ASA Student Paper Award, Statistical Learning & Data Science(SLDS) Section, 2024</span> \\
+     <span style="color: darkblue;">ASA Student Paper Award, Statistical Learning & Data Science Section, 2024</span> \\
     [arxiv](https://arxiv.org/abs/2405.00118)
 
 - **Causal Inference for Genomic Data with Multiple Heterogeneous Outcomes** \\
