@@ -16,7 +16,7 @@ layout: default
 
 - **Continuous Treatment Effects with Surrogate Outcomes** \\
     **Zeng, Z.**, Arbour, D., Feller, A., Addanki, R., Rossi, R., Sinha, R., and Kennedy, E.H. \\
-    [arxiv](https://arxiv.org/abs/2402.00168) · [<i>International Conference on Machine Learning (ICML)<i>](https://proceedings.mlr.press/v235/zeng24a.html), 2024
+    [arxiv](https://arxiv.org/abs/2402.00168) · <i>[International Conference on Machine Learning (ICML)](https://proceedings.mlr.press/v235/zeng24a.html)<i>, 2024
 
 - **Flexibly Estimating and Interpreting Heterogeneous Treatment Effects of Laparoscopic Surgery for Cholecystitis Patients** \\
     Bonvini, M., **Zeng, Z.**, Yu, M., Kennedy, E.H., and Keele, L. \\
