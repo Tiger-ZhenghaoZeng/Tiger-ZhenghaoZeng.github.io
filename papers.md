@@ -33,12 +33,12 @@ layout: default
 
 - **A Tensor-EM Method for Large-Scale Latent Class Analysis with Binary Responses** \\
     **Zeng, Z.**, Gu, Y. and Xu, G. \\
-    [arxiv](https://arxiv.org/abs/2103.16036) · [<i>Psychometrika<i>](https://link.springer.com/article/10.1007/s11336-022-09887-1), 2023
+    [arxiv](https://arxiv.org/abs/2103.16036) · <i>[Psychometrika](https://link.springer.com/article/10.1007/s11336-022-09887-1)<i>, 2023
     
 
 - **On the phase transition of Wilks’ phenomenon** \\
     He, Y., Meng, B., **Zeng, Z.** and Xu, G. \\
-    [arxiv](https://arxiv.org/abs/2008.05974) · [<i>Biometrika<i>](https://academic.oup.com/biomet/article-abstract/108/3/741/5911091), 2021
+    [arxiv](https://arxiv.org/abs/2008.05974) · <i>[Biometrika](https://academic.oup.com/biomet/article-abstract/108/3/741/5911091)<i>, 2021
    
 
 
