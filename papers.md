@@ -12,7 +12,7 @@ layout: default
 
 - **Causal Inference for Genomic Data with Multiple Heterogeneous Outcomes** \\
     Du, J. H., **Zeng, Z.**, Kennedy, E. H., Wasserman, L., and Roeder, K. \\
-    [arxiv](https://arxiv.org/abs/2404.09119) 
+    [arxiv](https://arxiv.org/abs/2404.09119) · Under review at <i>Journal of American Statistical Association<i>
 
 - **Continuous Treatment Effects with Surrogate Outcomes** \\
     **Zeng, Z.**, Arbour, D., Feller, A., Addanki, R., Rossi, R., Sinha, R., and Kennedy, E.H. \\
@@ -21,11 +21,11 @@ layout: default
 - **Efficient generalization and transportation** \\
     **Zeng, Z.**, Kennedy, E.H., Bodnar, L.M. and Naimi, A.I.\\
     <span style="color: darkblue;">ENAR Distinguished Student Paper Award, 2023</span> \\
-    [arxiv](https://arxiv.org/abs/2302.00092)
+    [arxiv](https://arxiv.org/abs/2302.00092) · Minor revision at <i>Statistical Science<i>
 
 - **Covariate-assisted bounds on causal effects with instrumental variables** \\
     Levis, A.W., Bonvini, M., **Zeng, Z.**, Keele, L. and Kennedy, E.H. \\
-    [arxiv](https://arxiv.org/abs/2301.12106) 
+    [arxiv](https://arxiv.org/abs/2301.12106) · Reject and Resubmit at <i>Journal of the Royal Statistical Society: Series B<i>
 
 - **A Tensor-EM Method for Large-Scale Latent Class Analysis with Binary Responses** \\
     **Zeng, Z.**, Gu, Y. and Xu, G. \\
