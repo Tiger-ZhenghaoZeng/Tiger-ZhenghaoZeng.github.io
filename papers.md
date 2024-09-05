@@ -47,10 +47,10 @@ layout: default
 ### Working Papers
 
 - **Nonparametric Estimation of Derivative of Dose-Response Curve: with Application to Estimating Local Instrumental Variable Curves** \\
-    **Zeng, Z.**, Levis, A.W., Kennedy, E.H., and Keele, L. \\
+    **Zeng, Z.**, Levis, A.W., Kennedy, E.H., and Keele, L. 
   
 
 - **Missing Response under Cluster Dependence** \\
-    **Zeng, Z.**, Arbour, D., Feller, A., Dasgupta, I., Sinha, A. \\
+    **Zeng, Z.**, Arbour, D., Feller, A., Dasgupta, I., Sinha, A. 
 
 
