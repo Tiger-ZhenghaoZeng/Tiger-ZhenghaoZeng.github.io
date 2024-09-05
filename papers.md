@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-### Selected papers
+### Theory and Methodology
 
 - **Causal Inference with High-dimensional Discrete Covariates** \\
      **Zeng, Z.**, Balakrishnan, S., Han, Y. and Kennedy, E. H. \\
@@ -17,10 +17,6 @@ layout: default
 - **Continuous Treatment Effects with Surrogate Outcomes** \\
     **Zeng, Z.**, Arbour, D., Feller, A., Addanki, R., Rossi, R., Sinha, R., and Kennedy, E.H. \\
     [arxiv](https://arxiv.org/abs/2402.00168) · <i>[International Conference on Machine Learning (ICML)](https://proceedings.mlr.press/v235/zeng24a.html)<i>, 2024
-
-- **Flexibly Estimating and Interpreting Heterogeneous Treatment Effects of Laparoscopic Surgery for Cholecystitis Patients** \\
-    Bonvini, M., **Zeng, Z.**, Yu, M., Kennedy, E.H., and Keele, L. \\
-    [arxiv](https://arxiv.org/abs/2311.04359) 
 
 - **Efficient generalization and transportation** \\
     **Zeng, Z.**, Kennedy, E.H., Bodnar, L.M. and Naimi, A.I.\\
@@ -39,8 +35,22 @@ layout: default
 - **On the phase transition of Wilks’ phenomenon** \\
     He, Y., Meng, B., **Zeng, Z.** and Xu, G. \\
     [arxiv](https://arxiv.org/abs/2008.05974) · <i>[Biometrika](https://academic.oup.com/biomet/article-abstract/108/3/741/5911091)<i>, 2021
-   
+  
 
+### Applications
 
+- **Flexibly Estimating and Interpreting Heterogeneous Treatment Effects of Laparoscopic Surgery for Cholecystitis Patients** \\
+    Bonvini, M., **Zeng, Z.**, Yu, M., Kennedy, E.H., and Keele, L. \\
+    [arxiv](https://arxiv.org/abs/2311.04359)
+  
+
+### Working Papers
+
+- **Nonparametric Estimation of Derivative of Dose-Response Curve: with Application to Estimating Local Instrumental Variable Curves** \\
+    **Zeng, Z.**, Levis, A.W., Kennedy, E.H., and Keele, L. \\
+  
+
+- **Missing Response under Cluster Dependence** \\
+    **Zeng, Z.**, Arbour, D., Feller, A., Dasgupta, I., Sinha, A. \\
 
 
