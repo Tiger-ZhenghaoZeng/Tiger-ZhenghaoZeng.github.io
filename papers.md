@@ -11,7 +11,7 @@ layout: default
     [arxiv](https://arxiv.org/abs/2405.00118) 
 - **Causal Inference for Genomic Data with Multiple Heterogeneous Outcomes** \\
     Du, J. H., **Zeng, Z.**, Kennedy, E. H., Wasserman, L., and Roeder, K. \\
-    [arxiv](https://arxiv.org/abs/2404.09119) 
+    [arxiv](https://arxiv.org/abs/2404.09119) · Accepted by <i>Journal of the American Statistical Association<i>
 - **Continuous Treatment Effects with Surrogate Outcomes** \\
     **Zeng, Z.**, Arbour, D., Feller, A., Addanki, R., Rossi, R., Sinha, R., and Kennedy, E.H. \\
     [arxiv](https://arxiv.org/abs/2402.00168) · <i>[International Conference on Machine Learning (ICML)](https://proceedings.mlr.press/v235/zeng24a.html)<i>, 2024
