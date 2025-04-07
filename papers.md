@@ -5,13 +5,19 @@ layout: default
 
 ### Theory and Methodology
 
+- **Nonparametric Estimation of Local Treatment Effects with Continuous Instruments** \\
+    **Zeng, Z.**, Levis, A.W., Lee, J.H., Kennedy, E.H., and Keele, L. \\
+    [arxiv](https://arxiv.org/abs/2504.03063) 
+
 - **Causal Inference with High-dimensional Discrete Covariates** \\
      **Zeng, Z.**, Balakrishnan, S., Han, Y. and Kennedy, E. H. \\
      <span style="color: darkblue;">ASA Student Paper Award, Statistical Learning & Data Science Section, 2024</span> \\
-    [arxiv](https://arxiv.org/abs/2405.00118) 
+    [arxiv](https://arxiv.org/abs/2405.00118)
+  
 - **Causal Inference for Genomic Data with Multiple Heterogeneous Outcomes** \\
     Du, J. H., **Zeng, Z.**, Kennedy, E. H., Wasserman, L., and Roeder, K. \\
     [arxiv](https://arxiv.org/abs/2404.09119) · Accepted by <i>Journal of the American Statistical Association<i>
+    
 - **Continuous Treatment Effects with Surrogate Outcomes** \\
     **Zeng, Z.**, Arbour, D., Feller, A., Addanki, R., Rossi, R., Sinha, R., and Kennedy, E.H. \\
     [arxiv](https://arxiv.org/abs/2402.00168) · <i>[International Conference on Machine Learning (ICML)](https://proceedings.mlr.press/v235/zeng24a.html)<i>, 2024
@@ -43,11 +49,7 @@ layout: default
   
 
 ### Working Papers
-
-- **Nonparametric Estimation of Derivative of Dose-Response Curve: with Application to Estimating Local Instrumental Variable Curves** \\
-    **Zeng, Z.**, Levis, A.W., Lee, J., Kennedy, E.H., and Keele, L. 
   
-
 - **Missing Response under Cluster Dependence** \\
     **Zeng, Z.**, Arbour, D., Feller, A., Dasgupta, I., Sinha, A. 
 
