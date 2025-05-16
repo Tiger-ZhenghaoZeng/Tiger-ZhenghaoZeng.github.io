@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img class="profile-picture" src="dongshan.jpg">
+<img class="profile-picture" src="IMG_6566.jpg">
 
 Hi there! Welcome to my home page under construction! I'm a fifth-year PhD student in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I am so fortunate to be advised by Prof. [Edward H. Kennedy](https://www.ehkennedy.com/).
 
