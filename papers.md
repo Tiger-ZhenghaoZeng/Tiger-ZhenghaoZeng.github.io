@@ -16,7 +16,7 @@ layout: default
   
 - **Causal Inference for Genomic Data with Multiple Heterogeneous Outcomes** \\
     Du, J. H., **Zeng, Z.**, Kennedy, E. H., Wasserman, L., and Roeder, K. \\
-    [arxiv](https://arxiv.org/abs/2404.09119) · Accepted by <i>Journal of the American Statistical Association<i>
+    [arxiv](https://arxiv.org/abs/2404.09119) ·  <i>[Journal of the American Statistical Association](https://www.tandfonline.com/doi/abs/10.1080/01621459.2025.2468014)<i>, 2025
     
 - **Continuous Treatment Effects with Surrogate Outcomes** \\
     **Zeng, Z.**, Arbour, D., Feller, A., Addanki, R., Rossi, R., Sinha, R., and Kennedy, E.H. \\
@@ -29,13 +29,12 @@ layout: default
 
 - **Covariate-assisted bounds on causal effects with instrumental variables** \\
     Levis, A.W., Bonvini, M., **Zeng, Z.**, Keele, L. and Kennedy, E.H. \\
-    [arxiv](https://arxiv.org/abs/2301.12106) 
+    [arxiv](https://arxiv.org/abs/2301.12106) · <i>[Journal of the Royal Statistical Society: Series B](https://academic.oup.com/jrsssb/advance-article/doi/10.1093/jrsssb/qkaf028/8151396)<i>, 2025
 
 - **A Tensor-EM Method for Large-Scale Latent Class Analysis with Binary Responses** \\
     **Zeng, Z.**, Gu, Y. and Xu, G. \\
     [arxiv](https://arxiv.org/abs/2103.16036) · <i>[Psychometrika](https://link.springer.com/article/10.1007/s11336-022-09887-1)<i>, 2023
     
-
 - **On the phase transition of Wilks’ phenomenon** \\
     He, Y., Meng, B., **Zeng, Z.** and Xu, G. \\
     [arxiv](https://arxiv.org/abs/2008.05974) · <i>[Biometrika](https://academic.oup.com/biomet/article-abstract/108/3/741/5911091)<i>, 2021
