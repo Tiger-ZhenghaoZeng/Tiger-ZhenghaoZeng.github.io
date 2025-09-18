@@ -25,7 +25,7 @@ layout: default
 - **Efficient generalization and transportation** \\
     **Zeng, Z.**, Kennedy, E.H., Bodnar, L.M. and Naimi, A.I.\\
     <span style="color: darkblue;">ENAR Distinguished Student Paper Award, 2023</span> \\
-    [arxiv](https://arxiv.org/abs/2302.00092) · Accepted by <i>Statistical Science<i>
+    [arxiv](https://arxiv.org/abs/2302.00092) · <i>[Statistical Science](https://projecteuclid.org/journals/statistical-science/volume-40/issue-3/Efficient-Generalization-and-Transportation/10.1214/24-STS972.full)<i>, 2025
 
 - **Covariate-assisted bounds on causal effects with instrumental variables** \\
     Levis, A.W., Bonvini, M., **Zeng, Z.**, Keele, L. and Kennedy, E.H. \\
