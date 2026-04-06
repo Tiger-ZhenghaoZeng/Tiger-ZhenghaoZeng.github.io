@@ -5,7 +5,7 @@ layout: default
 
 ### Theory and Methodology
 
-- **Sequentially-Rerandomized Switchback Experiments** \\
+- **Sequentially Rerandomized Switchback Experiments** \\
      **Zeng, Z.**, Adjaho, C., Bucarey, A., Qin, C., Zhang, R., Hoban, P., Johari, R. and Wager, S. \\
     [arxiv](https://arxiv.org/abs/2604.02489)
 
