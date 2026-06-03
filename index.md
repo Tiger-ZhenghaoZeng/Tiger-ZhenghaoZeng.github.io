@@ -10,6 +10,7 @@ Hi there! Welcome to Tiger's home page! I'm a Postdoctoral Scholar at [Stanford 
 Previously, I received my PhD in [Statistics at Carnegie Mellon University](http://stat.cmu.edu/), where I was advised by Prof. [Edward H. Kennedy](https://www.ehkennedy.com/). Before that, I studied math and statistics at [University of Science and Technology of China(USTC)](https://en.ustc.edu.cn/).
 
 I am broadly interested in statistical theory and methodology for causal inference, often based on semiparametric efficiency theory. Topics includes:
+* Experimentation with business applications,
 * Generalizability and transportability,
 * Instrumental variable methods,
 * Heterogeneous effects estimation,
