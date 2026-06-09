@@ -12,7 +12,7 @@ layout: default
 
 - **Handling Missing Responses under Cluster Dependence with Applications to Language Model Evaluation** \\
     **Zeng, Z.**, Arbour, D., Feller, A., Dasgupta, I., Sinha, A., and Kennedy, E.H. \\
-    [arxiv](https://arxiv.org/abs/2510.20928) · <i> Advances in Neural Information Processing Systems (NeurIPS) <i>, 2025
+    [arxiv](https://arxiv.org/abs/2510.20928) · <i> [Advances in Neural Information Processing Systems (NeurIPS)](https://proceedings.neurips.cc/paper_files/paper/2025/hash/51b81a56ec2c9dbc0649d44fb49ddb27-Abstract-Conference.html) <i>, 2025
 
 
 - **Nonparametric Estimation of Local Treatment Effects with Continuous Instruments** \\
